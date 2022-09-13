@@ -1,0 +1,2 @@
+# raivim-jadara
+klases darbs
